@@ -116,11 +116,11 @@ export const m = {
   Announcements: '공지사항',
   Submissions: '제출',
   Rankings: '랭킹',
-  Overview: 'Overview',
+  Overview: '개요',
   Admin_Helper: 'Admin Helper',
-  StartAt: 'StartAt',
-  EndAt: 'EndAt',
-  ContestType: 'ContestType',
+  StartAt: '시작일시',
+  EndAt: '종료일시',
+  ContestType: '대회유형',
   Creator: '작성자',
   Public: 'Public',
   Password_Protected: 'Password Protected',
@@ -192,11 +192,11 @@ export const m = {
   UserLogin: '로그인',
   Welcome_back: '온라인 저지에 오신 것을 환영합니다',
   // OIRank.vue
-  OI_Ranklist: 'OI Ranklist',
+  OI_Ranklist: 'OI 랭킹 목록',
   // OIContestRank.vue
   Total_Score: 'Total Score',
   // ProblemList.vue
-  Problem_List: 'Problem List',
+  Problem_List: '문제 목록',
   High: 'High',
   Mid: 'Mid',
   Low: 'Low',
@@ -215,7 +215,7 @@ export const m = {
   UserRegister: '회원가입',
   Already_Registed: '이미 등록하셨나요? 로그인하세요!',
   The_username_already_exists: '이미 존재하는 아이디입니다.',
-  The_email_already_exists: 'The email already exists',
+  The_email_already_exists: '이미 존재하는 이메일입니다.',
   password_does_not_match: 'password does not match',
   Thanks_for_registering: 'Thanks for your registering, you can login now',
   // ResetPassword.vue and ApplyResetPassword.vue
